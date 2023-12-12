@@ -1,10 +1,5 @@
 # datos_aceites.md
-datos_aceites.md
-# Datos de Aceites
-
-En este documento se registran los datos relacionados con el aceite, incluyendo la ciudad de procedencia, litros de aceite y marca de aceite.
-
-## Ciudad de Procedencia
+# Ciudad de Procedencia
 
 - Quito
 - Guayaquil
